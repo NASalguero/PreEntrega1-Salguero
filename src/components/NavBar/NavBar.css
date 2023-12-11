@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Walkway";
+    src: url(../../assets/Walkway_Black.ttf); }
+  
+
+.NavBar {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 100px;
+    align-items: center;
+    height: 145px;
+    width: 950px;
+    font-family: Walkway;
+    font-size: 25px;
+}
+
+.contador {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    filter: drop-shadow(0 0 2em #3b3b3baa);
+}
+  

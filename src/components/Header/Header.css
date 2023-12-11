@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Walkway";
+    src: url(../../assets/Walkway_Black.ttf); }
+  
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: Walkway;
+    font-size: 37px;
+}
+
+h2{
+    font-family: Walkway;
+    font-size: 24px;
+    color: rgb(62, 62, 62);
+}
+
+.logo:hover {
+    filter: drop-shadow(0 0 2em #3b3b3baa);
+  }
+  
+.logo {
+    width: 14vw;
+}
