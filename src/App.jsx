@@ -3,6 +3,7 @@ import "./App.css";
 
 import Header from "./components/Header/Header";
 import ItemListContainer from "./components/MerchCard/ItemListContainer";
+import Footer from "./components/Footer/Footer";
 
 const imagen1 = "./assets/212vip-black-CH.webp";
 
@@ -21,6 +22,8 @@ class App extends React.Component {
           <ItemListContainer nombre="Eros" diseñador="Versace" precio="82000" imagen="./assets/eros-versace.png"/>
           <ItemListContainer nombre="Le Male" diseñador="Jean Paul Gaultier" precio="85000" imagen="./assets/le-male.png"/>
         </div>
+
+        <Footer/>
       </div>
     );
   }

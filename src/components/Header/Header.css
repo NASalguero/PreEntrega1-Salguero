@@ -10,7 +10,7 @@
 
 .Header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
     width: 100%;
     box-sizing: border-box;
