@@ -1,12 +1,19 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-.MerchCard{
+.MerchCard {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  gap: 50px 250px;
-  margin:60px 0;
+  margin: 60px 0;
 }
+
+.productos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15rem;
+  padding-block: 2rem;
+}
+

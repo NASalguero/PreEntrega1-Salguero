@@ -1,0 +1,99 @@
+[
+    {
+        "nombre": "Phantom EDT",
+        "diseñador":"Paco Rabanne",
+        "precio":70500,
+        "imagen":"../../src/assets/phantom.png",
+        "categoria": "Masculino",
+        "id":"1"
+    },
+    {
+        "nombre":"Invictus EDT",
+        "diseñador":"Paco Rabanne",
+        "precio":68600,
+        "imagen":"../../src/assets/invictus.png",
+        "categoria": "Masculino",
+        "id":"2"
+    },
+    {
+        "nombre":"Sauvage Elixir",
+        "diseñador":"Dior",
+        "precio":85000,
+        "imagen":"../../src/assets/sauvage.png",
+        "categoria": "Masculino",
+        "id":"3"
+    },
+    {
+        "nombre":"Gentleman Society",
+        "diseñador":"Givenchy",
+        "precio":73500,
+        "imagen":"../../src/assets/gentleman-society.jpg",
+        "categoria": "Masculino",
+        "id":"4"
+    },
+    {
+        "nombre":"The Dreamer",
+        "diseñador":"Versace",
+        "precio":74600,
+        "imagen":"../../src/assets/dreamer.png",
+        "categoria": "Masculino",
+        "id":"5"
+    },
+    {
+        "nombre":"Polo Blue",
+        "diseñador":"Ralph Lauren",
+        "precio":69600,
+        "imagen":"../../src/assets/polo.png",
+        "categoria": "Masculino",
+        "id":"6"
+    },
+    {
+        "nombre":"Amor Amor",
+        "diseñador":"Cacharel",
+        "precio":65900,
+        "imagen":"../../src/assets/cacharel.png",
+        "categoria": "Femenino",
+        "id":"7"
+    },
+    {
+        "nombre":"Ange Ou Demon",
+        "diseñador":"Givenchy",
+        "precio":63200,
+        "imagen":"../../src/assets/ange.png",
+        "categoria": "Femenino",
+        "id":"8"
+    },
+    {
+        "nombre":"Nina Le Parfum",
+        "diseñador":"Nina Ricci",
+        "precio":60200,
+        "imagen":"../../src/assets/nina.png",
+        "categoria": "Femenino",
+        "id":"9"
+    },
+    {
+        "nombre":"Gaultier Divine",
+        "diseñador":"Jean Paul Gaultier",
+        "precio":67400,
+        "imagen":"../../src/assets/divine.webp",
+        "categoria": "Femenino",
+        "id":"10"
+    },
+    {
+        "nombre":"Lady Million",
+        "diseñador":"Paco Rabanne",
+        "precio":59400,
+        "imagen":"../../src/assets/ladym.png",
+        "categoria": "Femenino",
+        "id":"11"
+    },
+    {
+        "nombre":"Royal Marina Diamond",
+        "diseñador":"Marina De Bourbon",
+        "precio":53700,
+        "imagen":"../../src/assets/royal.webp",
+        "categoria": "Femenino",
+        "id":"12"
+    }
+
+]
