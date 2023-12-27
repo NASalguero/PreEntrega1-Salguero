@@ -4,7 +4,7 @@
         "diseñador":"Paco Rabanne",
         "precio":70500,
         "imagen":"../../src/assets/phantom.png",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"1"
     },
     {
@@ -12,7 +12,7 @@
         "diseñador":"Paco Rabanne",
         "precio":68600,
         "imagen":"../../src/assets/invictus.png",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"2"
     },
     {
@@ -20,7 +20,7 @@
         "diseñador":"Dior",
         "precio":85000,
         "imagen":"../../src/assets/sauvage.png",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"3"
     },
     {
@@ -28,7 +28,7 @@
         "diseñador":"Givenchy",
         "precio":73500,
         "imagen":"../../src/assets/gentleman-society.jpg",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"4"
     },
     {
@@ -36,7 +36,7 @@
         "diseñador":"Versace",
         "precio":74600,
         "imagen":"../../src/assets/dreamer.png",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"5"
     },
     {
@@ -44,7 +44,7 @@
         "diseñador":"Ralph Lauren",
         "precio":69600,
         "imagen":"../../src/assets/polo.png",
-        "categoria": "Masculino",
+        "categoria": "Masculinas",
         "id":"6"
     },
     {
@@ -52,7 +52,7 @@
         "diseñador":"Cacharel",
         "precio":65900,
         "imagen":"../../src/assets/cacharel.png",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"7"
     },
     {
@@ -60,7 +60,7 @@
         "diseñador":"Givenchy",
         "precio":63200,
         "imagen":"../../src/assets/ange.png",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"8"
     },
     {
@@ -68,7 +68,7 @@
         "diseñador":"Nina Ricci",
         "precio":60200,
         "imagen":"../../src/assets/nina.png",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"9"
     },
     {
@@ -76,7 +76,7 @@
         "diseñador":"Jean Paul Gaultier",
         "precio":67400,
         "imagen":"../../src/assets/divine.webp",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"10"
     },
     {
@@ -84,7 +84,7 @@
         "diseñador":"Paco Rabanne",
         "precio":59400,
         "imagen":"../../src/assets/ladym.png",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"11"
     },
     {
@@ -92,7 +92,7 @@
         "diseñador":"Marina De Bourbon",
         "precio":53700,
         "imagen":"../../src/assets/royal.webp",
-        "categoria": "Femenino",
+        "categoria": "Femeninas",
         "id":"12"
     }
 

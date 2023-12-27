@@ -2,16 +2,25 @@
 import { pedirDatos } from "../../helpers/pedirDatos";
 import { useEffect, useState } from "react";
 import ItemList from "../ItemListContainer/ItemList";
+import { useParams } from "react-router-dom";
+
+
 
 const ItemListContainer = () => {
    
-  const [perfumes, setPerfumes] = useState([])
-  console.log(perfumes);
+  const [perfumes, setPerfumes] = useState([]);
+  const categoria = useParams().categoria;
+  
 
   useEffect(() => {
     pedirDatos()
       .then((res) => {
-        setPerfumes(res);
+        if (categoria){
+          setPerfumes( res.filter((perf) => perf.categoria === categoria ) );
+        }else{
+          setPerfumes(res);
+        }
+        
       })
 
   }, [])
@@ -20,7 +29,7 @@ const ItemListContainer = () => {
 
   return (
     <div>
-      <ItemList perfumes={perfumes} />
+      <ItemList className="MerchCard" perfumes={perfumes} />
     </div>
   );
 };

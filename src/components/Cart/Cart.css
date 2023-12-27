@@ -1,0 +1,12 @@
+.mainCart{
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.imgCart{
+    height: 30vw;
+}

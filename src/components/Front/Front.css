@@ -1,0 +1,17 @@
+.front{
+    align-items: center;
+    
+}
+
+.fronth2{
+    font-size: 2rem;
+    margin: 2rem 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.frontImg{
+    width: 99vw;
+
+}
