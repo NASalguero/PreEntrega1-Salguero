@@ -10,7 +10,6 @@ const ItemListContainer = () => {
    
   const [perfumes, setPerfumes] = useState([]);
   const categoria = useParams().categoria;
-  
 
   useEffect(() => {
     pedirDatos()
@@ -23,7 +22,7 @@ const ItemListContainer = () => {
         
       })
 
-  }, [])
+  }, [categoria])
   
 
 

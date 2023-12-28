@@ -1,6 +1,7 @@
-import { useState, useEffect, useParams } from "react";
+import { useState, useEffect } from "react";
 import { getItemId } from "../../helpers/pedirDatos";
 import ItemDetail from "./ItemDetail";
+import { useParams } from "react-router-dom";
 
 
 

@@ -5,7 +5,7 @@
         "precio":70500,
         "imagen":"../../src/assets/phantom.png",
         "categoria": "Masculinas",
-        "id":"1"
+        "id":1
     },
     {
         "nombre":"Invictus EDT",
@@ -13,7 +13,7 @@
         "precio":68600,
         "imagen":"../../src/assets/invictus.png",
         "categoria": "Masculinas",
-        "id":"2"
+        "id":2
     },
     {
         "nombre":"Sauvage Elixir",
@@ -21,7 +21,7 @@
         "precio":85000,
         "imagen":"../../src/assets/sauvage.png",
         "categoria": "Masculinas",
-        "id":"3"
+        "id":3
     },
     {
         "nombre":"Gentleman Society",
@@ -29,7 +29,7 @@
         "precio":73500,
         "imagen":"../../src/assets/gentleman-society.jpg",
         "categoria": "Masculinas",
-        "id":"4"
+        "id":4
     },
     {
         "nombre":"The Dreamer",
@@ -37,7 +37,7 @@
         "precio":74600,
         "imagen":"../../src/assets/dreamer.png",
         "categoria": "Masculinas",
-        "id":"5"
+        "id":5
     },
     {
         "nombre":"Polo Blue",
@@ -45,7 +45,7 @@
         "precio":69600,
         "imagen":"../../src/assets/polo.png",
         "categoria": "Masculinas",
-        "id":"6"
+        "id":6
     },
     {
         "nombre":"Amor Amor",
@@ -53,7 +53,7 @@
         "precio":65900,
         "imagen":"../../src/assets/cacharel.png",
         "categoria": "Femeninas",
-        "id":"7"
+        "id":7
     },
     {
         "nombre":"Ange Ou Demon",
@@ -61,7 +61,7 @@
         "precio":63200,
         "imagen":"../../src/assets/ange.png",
         "categoria": "Femeninas",
-        "id":"8"
+        "id":8
     },
     {
         "nombre":"Nina Le Parfum",
@@ -69,7 +69,7 @@
         "precio":60200,
         "imagen":"../../src/assets/nina.png",
         "categoria": "Femeninas",
-        "id":"9"
+        "id":9
     },
     {
         "nombre":"Gaultier Divine",
@@ -77,7 +77,7 @@
         "precio":67400,
         "imagen":"../../src/assets/divine.webp",
         "categoria": "Femeninas",
-        "id":"10"
+        "id":10
     },
     {
         "nombre":"Lady Million",
@@ -85,7 +85,7 @@
         "precio":59400,
         "imagen":"../../src/assets/ladym.png",
         "categoria": "Femeninas",
-        "id":"11"
+        "id":11
     },
     {
         "nombre":"Royal Marina Diamond",
@@ -93,7 +93,7 @@
         "precio":53700,
         "imagen":"../../src/assets/royal.webp",
         "categoria": "Femeninas",
-        "id":"12"
+        "id":12
     }
 
 ]

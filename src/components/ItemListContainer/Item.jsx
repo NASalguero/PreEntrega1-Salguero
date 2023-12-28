@@ -4,6 +4,7 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
+import { Link } from "react-router-dom";
 
 
 const Item = ( {perfume} ) => {
@@ -26,7 +27,7 @@ const Item = ( {perfume} ) => {
           </Typography>
           <div style={{ marginTop: "20px" }}>
             <Typography variant="h6" color="div">
-              {perfume.precio}
+              ${perfume.precio}
             </Typography>
           </div>
         </CardContent>
@@ -35,6 +36,12 @@ const Item = ( {perfume} ) => {
         <Button size="small" color="primary">
           Comprar
         </Button>
+      </CardActions>
+      <CardActions>
+        <Button size="small" color="primary">
+        <Link to={`/item/${perfume.id}`}>Ver Más</Link>
+        </Button>
+        <Link/>
       </CardActions>
     </Card>
     </div>

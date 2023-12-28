@@ -5,10 +5,11 @@ import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 
-const ItemDetail = ({item}) => {
+
+const ItemDetail = ( {item}) => {
   return (
     <div>
-        <Card sx={{ maxWidth: 345, minWidth: 345 }}>
+    <Card sx={{ maxWidth: 345, minWidth: 345 }}>
       <CardActionArea>
         <CardMedia
           component="img"
@@ -25,7 +26,7 @@ const ItemDetail = ({item}) => {
           </Typography>
           <div style={{ marginTop: "20px" }}>
             <Typography variant="h6" color="div">
-              {item.precio}
+              ${item.precio}
             </Typography>
           </div>
         </CardContent>

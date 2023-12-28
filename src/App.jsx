@@ -18,7 +18,7 @@ class App extends React.Component {
 
           <Routes>
             <Route path="/" element={<Front />} />
-            <Route path="/item/:id" element={<ItemDetailContainer itemId={2}/>}/>
+            <Route path="/item/:id" element={<ItemDetailContainer/>}/>
             <Route path="/perfumes/:categoria" element={<ItemListContainer />}/>
             <Route path="/perfumes" element={<ItemListContainer/>} />
             <Route path="/cart" element={<Cart/>}/>
